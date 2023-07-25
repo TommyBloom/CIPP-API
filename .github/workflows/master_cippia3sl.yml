@@ -26,4 +26,4 @@ jobs:
           app-name: 'cippia3sl'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_03A3E1016F8045BBB2E6A9294324B1E1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D8CB02CBEA5443DCA478C43FA0239083 }}
